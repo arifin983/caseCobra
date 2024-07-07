@@ -1,10 +1,10 @@
-# CaseCobra
+# Casecobra
 
-CaseCobra is a mobile case (cover) designing and making website where users can create custom phone covers according to their desired design.
+CaseCobra is a mobile case (cover) designing and making website where users can create custom phone covers according to your desired design.
 
 ## Table of Contents
 
-- [CaseCobra](#casecobra)
+- [Casecobra](#casecobra)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Tech Stack](#tech-stack)
@@ -28,7 +28,7 @@ CaseCobra is a mobile case (cover) designing and making website where users can 
 - Real-time preview of the design
 - Multiple options for colors, models, materials, and finishes
 - Configuration saving and loading
-- Hosted on Vercel at [https://casecobra-sable.vercel.app/](https://casecobra-sable.vercel.app/)
+- Hosted on Vercel at [CaseCobra](https://casecobra-sable.vercel.app/)
 
 ## Tech Stack
 
@@ -127,7 +127,7 @@ The project uses the following environment variables:
 
 ## Deployment
 
-The application is hosted on Vercel at [https://casecobra-sable.vercel.app/](https://casecobra-sable.vercel.app/).
+The application is hosted on Vercel at [CaseCobra](https://casecobra-sable.vercel.app/).
 
 ## Contact
 
