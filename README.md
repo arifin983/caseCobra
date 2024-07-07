@@ -106,7 +106,7 @@ CaseCobra is a mobile case (cover) designing and making website where users can 
     npm run dev
     ```
 
-    The application will be available at [http://localhost:3000](http://localhost:3000).
+    The application will be available at [https://casecobra-sable.vercel.app](https://casecobra-sable.vercel.app).
 
 ## Scripts
 
