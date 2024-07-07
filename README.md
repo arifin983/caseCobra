@@ -28,7 +28,7 @@ CaseCobra is a mobile case (cover) designing and making website where users can 
 - Real-time preview of the design
 - Multiple options for colors, models, materials, and finishes
 - Configuration saving and loading
-- Hosted on Vercel at [http://xyz](http://xyz)
+- Hosted on Vercel at [[http://xyz](https://casecobra-sable.vercel.app/)]([http://xyz](https://casecobra-sable.vercel.app/))
 
 ## Tech Stack
 
@@ -73,7 +73,7 @@ CaseCobra is a mobile case (cover) designing and making website where users can 
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/your-username/casecobra.git
+    git clone https://github.com/arifin983/casecobra.git
     cd casecobra
     ```
 
@@ -127,7 +127,7 @@ The project uses the following environment variables:
 
 ## Deployment
 
-The application is hosted on Vercel at [http://xyz](http://xyz).
+The application is hosted on Vercel at [https://casecobra-sable.vercel.app/]([http://xyz](https://casecobra-sable.vercel.app/)).
 
 ## Contact
 
