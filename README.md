@@ -44,7 +44,7 @@ CaseCobra is a mobile case (cover) designing and making website where users can 
 
 ### State Management
 
-- React Query
+- tanstack/react-query
 
 ### Authentication
 
